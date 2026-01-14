@@ -1,4 +1,4 @@
-# Bittree Clone
+# Bittree
 
 A **Link in Bio** web app inspired by Linktree, built with **Next.js**, **React**, and **MongoDB**. Users can claim a handle, add multiple links, and customize their profile with a picture and description.
 
